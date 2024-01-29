@@ -1,0 +1,6 @@
+TO-DO
+ 
+1. Heart veri setiyle veri temizleme ve ön işleme hazırlanacak: Heart_Preprocessing
+2. Heart veri setiyle istatistiksel yöntemler denenecek: Heart_stat_methods
+3. Heart veri setiyle değişken seçimi yapılacak: Heart_var_select
+4. Heart veri setinde ML algoritmaları yürütülecek:Heart_surv_ML
